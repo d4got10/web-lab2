@@ -1,0 +1,20 @@
+.app {
+    font-family: "Book Antiqua", sans-serif;
+}
+
+.table-container {
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #2cc2f2;
+}
+
+tr{
+    text-align: center;
+}
