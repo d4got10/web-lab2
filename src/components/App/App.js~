@@ -63,7 +63,7 @@ const App = () => {
       <div className="app">
 	<h3>Игра угадай слово</h3>
 	<div>
-      	  <GuessTheWord words={words} />
+      	  <WordGame words={words} />
         </div>
         <h3>Список транзакций</h3>
         <Controls
